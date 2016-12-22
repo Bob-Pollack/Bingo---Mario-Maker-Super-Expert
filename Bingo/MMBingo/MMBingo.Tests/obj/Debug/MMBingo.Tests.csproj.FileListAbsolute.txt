@@ -1,0 +1,70 @@
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\ApplicationInsights.config
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\csc.exe
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\vbc.exe
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\MMBingo.Tests.dll.config
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\MMBingo.Tests.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\MMBingo.Tests.pdb
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\MMBingo.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.Optimization.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.Mvc.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.Razor.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.WebPages.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\MMBingo.pdb
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.Optimization.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.Mvc.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.Razor.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.WebPages.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\obj\Debug\MMBingo.Tests.csprojResolveAssemblyReference.cache
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\obj\Debug\MMBingo.Tests.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo.Tests\obj\Debug\MMBingo.Tests.pdb
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\MMBingo.Tests.dll.config
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\MMBingo.Tests.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\MMBingo.Tests.pdb
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\MMBingo.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\MMBingo.pdb
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\obj\Debug\MMBingo.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\obj\Debug\MMBingo.Tests.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo.Tests\obj\Debug\MMBingo.Tests.pdb

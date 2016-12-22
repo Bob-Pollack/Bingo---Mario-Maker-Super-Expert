@@ -1,0 +1,99 @@
+﻿* {
+    font-size: 0px;
+}
+
+body {
+
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    width: 770px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.overall {
+    margin-left: auto;
+    margin-right: auto;
+    border:solid;
+    text-align: center;
+}
+.bingo_board {
+    width: 770px;
+    height:770px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid;
+    border-color: #000000;
+    border-width: 3px;
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+
+}
+
+.bingo_square {
+    display:inline-block;
+    border:solid;
+    /*border-color:#000000;*/
+    border-width:2px;
+    width: 150px;
+    height: 150px;
+    padding: 0px;
+    margin: 0px;
+    border-collapse:collapse;
+}
+
+.bingo_square * {
+    display: inline-block;
+    text-align: center;
+    width: 140px;
+    word-wrap:normal;
+    vertical-align: middle;
+    height: 125px;
+    padding-top: 25px;
+    font-size: 20px;
+
+}
+
+.row_1 {
+    background-color:#A0A0FF;
+}
+
+.active {
+    background-color: #B0FFB0;
+}
+
+.hovered {
+    background-color:#FF0000;
+}
+
+.winner {
+    background-color:#FFFF80 !important;
+}
+
+#ExplanationText {
+    display:none;
+    border:1px solid #FF0000;
+    width:150px;
+    font-size: 18px;
+}
+
+.row_@i {
+    background-color: deeppink;
+}
+
+
+
+/*
+    THINGS TO ADD
+
+    make jquery pop up a explanation rather than turn red on hover
+    have boxes turn gold if 5 in a row is completed
+    change it to always pick 24 that are not rank 11 and one that is (currently unfinished pipes is the only 11)
+    have it pick one that is rank 11 and maneuver it to the center of the board
+
+*/

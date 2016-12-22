@@ -1,0 +1,106 @@
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\ApplicationInsights.config
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\roslyn\csc.exe
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\roslyn\Microsoft.CodeAnalysis.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\roslyn\Microsoft.CSharp.Core.targets
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\roslyn\System.Collections.Immutable.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\roslyn\System.Reflection.Metadata.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\roslyn\vbc.exe
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\roslyn\VBCSCompiler.exe
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\roslyn\VBCSCompiler.exe.config
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\MMBingo.dll.config
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\MMBingo.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\MMBingo.pdb
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Antlr3.Runtime.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.Agent.Intercept.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.DependencyCollector.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.PerfCounterCollector.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.Web.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.WindowsServer.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Microsoft.ApplicationInsights.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Microsoft.Web.Infrastructure.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Newtonsoft.Json.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\System.Web.Helpers.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\System.Web.Mvc.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\System.Web.Optimization.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\System.Web.Razor.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\System.Web.WebPages.Deployment.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\System.Web.WebPages.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\System.Web.WebPages.Razor.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\WebGrease.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Antlr3.Runtime.pdb
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.DependencyCollector.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.Web.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.WindowsServer.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Microsoft.ApplicationInsights.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\Newtonsoft.Json.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\System.Web.Helpers.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\System.Web.Mvc.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\System.Web.Optimization.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\System.Web.Razor.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\System.Web.WebPages.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\System.Web.WebPages.Deployment.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\bin\System.Web.WebPages.Razor.xml
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\obj\Debug\MMBingo.csprojResolveAssemblyReference.cache
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\obj\Debug\MMBingo.dll
+B:\Programming Project Stuff\Projects\Bingo\MMBingo\MMBingo\obj\Debug\MMBingo.pdb
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\ApplicationInsights.config
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\roslyn\csc.exe
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\roslyn\vbc.exe
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\MMBingo.dll.config
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\MMBingo.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\MMBingo.pdb
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Antlr3.Runtime.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.Web.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Newtonsoft.Json.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\System.Web.Helpers.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\System.Web.Mvc.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\System.Web.Optimization.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\System.Web.Razor.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\System.Web.WebPages.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\WebGrease.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Antlr3.Runtime.pdb
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.Web.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\Newtonsoft.Json.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\System.Web.Helpers.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\System.Web.Mvc.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\System.Web.Optimization.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\System.Web.Razor.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\System.Web.WebPages.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\obj\Debug\MMBingo.csprojResolveAssemblyReference.cache
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\obj\Debug\MMBingo.dll
+C:\Users\Bob Pollack\Desktop\bingo\Bingo-20161220T164106Z\Bingo\MMBingo\MMBingo\obj\Debug\MMBingo.pdb

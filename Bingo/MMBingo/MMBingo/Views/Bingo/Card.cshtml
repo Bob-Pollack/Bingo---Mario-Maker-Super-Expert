@@ -1,0 +1,63 @@
+﻿@model List<MMBingo.Models.BingoItem>
+@{
+    Layout = null;
+    int i = 0;
+    int j = 1;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="~/Content/BingoPage.css" />
+    <meta name="viewport" content="width=device-width" />
+    <script src="~/scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/scripts/jquery.validate.min.js"></script>
+    <script src="~/scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/scripts/BingoActive.js"></script>
+    <title>Card</title>
+</head>
+<body>
+    <div class="overall"> 
+        <h1>Bingo Card</h1>
+        <div class="bingo_board">
+            @foreach (MMBingo.Models.BingoItem square in Model)
+            {
+                /*
+                 * i is row number
+                 * j is column number
+                 * k is square number (1-25)
+                 * m = 1 if this square is on the first diagonal
+                 * n = 2 if this square is on the second diagonal
+                 */
+                i++;
+                if (i == 6)
+                {
+                    i = 1;
+                    j++;
+                }
+                int k = i + (5 * (j - 1));
+
+
+                int m = 0;
+                int n = 3;
+                if (i == j)
+                {
+                    m = 1;
+                }
+                if (i == 6 - j)
+                {
+                    n = 2;
+                }
+                /* dia_0 and dia_3 classes are meaningless, just a way to properly add dia_1 or dia_2 classes
+                 if something has the dia_1 class its on the first diagonal, dia_2 for second diagonal*/
+
+
+                <div class="col_@i, row_@j, space_@k, dia_@m, dia_@n, bingo_square"><p>@square.Name</p></div>
+            }
+        </div>
+
+        <div id="ExplanationText">TextGoesHereWhatever</div>​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+    </div>
+</body>
+</html>
