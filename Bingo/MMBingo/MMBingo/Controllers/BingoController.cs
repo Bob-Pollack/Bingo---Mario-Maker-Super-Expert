@@ -29,5 +29,21 @@ namespace MMBingo.Controllers
 
             return View("Card", bingoList);
         }
+
+        public ActionResult TableOfPossibilities()
+        {
+            BingoDal dal = new DALs.BingoDal();
+            List<BingoItem> bingoList = dal.GetAllActiveBingoItems();
+
+            return View("TableOfPossibilities", bingoList);
+        }
+
+        public ActionResult TableByCategory()
+        {
+            BingoDal dal = new DALs.BingoDal();
+            List<BingoItem> bingoList = dal.GetAllActiveBingoItemsByCategory();
+
+            return View("TableOfPossibilities", bingoList);
+        }
     }
 }

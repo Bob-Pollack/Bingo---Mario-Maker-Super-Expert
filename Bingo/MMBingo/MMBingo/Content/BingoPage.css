@@ -26,9 +26,9 @@ h1 {
     height:770px;
     margin-left: auto;
     margin-right: auto;
-    border: solid;
-    border-color: #000000;
-    border-width: 3px;
+    border: 3px solid #FF0000;
+    /*border-color: #0000ff;
+    border-width: 3px*/;
     padding: 0px;
     margin: 0px;
     display: inline-block;
@@ -61,6 +61,7 @@ h1 {
 
 .row_1 {
     background-color:#A0A0FF;
+    border: 2px solid green !important;
 }
 
 .active {
@@ -86,6 +87,15 @@ h1 {
     background-color: deeppink;
 }
 
+
+.bingo_list {
+    border: 1px solid #FF00FF;
+}
+
+.bingo_list * {
+    font-size: 18px;
+    border: 1px solid #00FFFF;
+}
 
 
 /*

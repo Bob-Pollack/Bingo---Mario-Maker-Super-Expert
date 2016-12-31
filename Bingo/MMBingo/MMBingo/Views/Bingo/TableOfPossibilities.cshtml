@@ -1,0 +1,42 @@
+﻿@model List<MMBingo.Models.BingoItem>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="~/Content/BingoPage.css" />
+    <meta name="viewport" content="width=device-width" />
+    <script src="~/scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/scripts/jquery.validate.min.js"></script>
+    <script src="~/scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/scripts/BingoActive.js"></script>
+    <title>TableOfPossibilities</title>
+</head>
+<body>
+    <div>
+        <table class="bingo_list">
+            <tr>
+                <td>Name</td>
+                <td>Description</td>
+                <td>Submitted By</td>
+                <td>Category</td>
+            </tr>
+
+            @foreach (MMBingo.Models.BingoItem bingo in Model)
+            {
+                <tr>
+                    <td>@bingo.Name</td>
+                    <td>@bingo.Description</td>
+                    <td>@bingo.Creator</td>
+                    <td>@bingo.Category</td>
+                </tr>
+            }
+
+        </table>
+         
+    </div>
+</body>
+</html>
