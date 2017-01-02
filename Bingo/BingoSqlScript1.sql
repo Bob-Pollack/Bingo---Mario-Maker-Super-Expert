@@ -1,6 +1,7 @@
 DROP TABLE Bingo;
 
 create table Bingo (
+	id_number integer identity Not Null,
 	name varchar(200) Not Null,
 	description varchar(1000), 
 	rarity integer,
@@ -9,6 +10,7 @@ create table Bingo (
 	is_active bit,
 	has_been_rejected bit,
 	approved_by varchar(200)
+	
 );
 
 
@@ -22,7 +24,7 @@ INSERT INTO Bingo values
 
 INSERT INTO Bingo values
 ('Bowser Excavation', 'A path with blocks that must be cleared by manipulating Bowser or Bowser Jr. to destroy them', 6, 'Excavation', 'Default', 1, 0, 'x1372'),
-('Fire Clown Car Excavation', 'A Fire Clown Car must be used to clear blocks (enemy fireballs triggering bob-ombs counts)', 4, 'Excavation', 'Default', 1, 0, 'x1372'),
+('Fire Clown Car Excavation', 'A Fire Clown Car must be used to clear blocks', 4, 'Excavation', 'Default', 1, 0, 'x1372'),
 ('Bob-omb Excavation', 'Mario must clear a path by using multiple bob-ombs', 4, 'Excavation', 'Default', 1, 0, 'x1372'),
 ('Shell Excavation', 'A shell must be used to break/spin 5+ bricks/turn blocks to open a path', 3, 'Excavation', 'Default', 1, 0, 'x1372'),
 ('Magikoopa Excavation', 'Magikoopa magic must open a path for the player', 3, 'Excavation','Default',  1, 0, 'x1372');
@@ -50,18 +52,17 @@ INSERT INTO Bingo VALUES
 
 INSERT INTO Bingo Values
 ('Troll Power-Up', 'A Power-up that makes the level harder or impossible to complete when collected', 4, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
-('Annoying Sounds', 'Multiple sources of irritating noises, usually sound effects or pink note block related', 3, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
+('Annoying Sounds', 'Multiple sources of irritating noises, usually sound effects, pink note block, or costume related', 3, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
 ('Dizzy', 'The Dizzy effect is triggered anywhere in the level', 4, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
 ('Kaizo Block', 'An inviisble block appears in the level intentionally designed to interfere with jumps', 9, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
 ('Instant Death Pipe/Door', 'A pipe or door that quickly kills the player if they enter it', 8, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
 ('Misleading Arrows/Coins', 'Arrows or coins that lead the player in the wrong direction', 4, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
 ('Off-Screen Thwomp', 'A Thwomp from above that the player cannot see until it is already hurtling toward him', 5, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
 ('Spike Spam', 'Excessive numbers of spikes/Saws, often used as a maze or path underwater or with a star', 5, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
-('Required Hidden Block', 'A hidden block without obvious hinting that is required (as powerup or platform) to complete the level', 5, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
-('Pick a Path', 'Without any clues, the player must blindly select one of multiple possible paths', 4, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
+('Required Hidden Block', 'A hidden block without obvious hinting that is required (usually as powerup or platform) to complete the level', 5, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
+('Pick a Path', 'Without any clues, the player must blindly select one of multiple possible paths', 7, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
 ('RNG Fest', 'Randomness in any form is vital to completing the level', 6, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
 ('YATTANAI', 'The level makes it look as if the player had won, only to have a last-second surprise to stop it', 3, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
-('Costume Hell', 'The level contains many frequently changing costumes or one that makes a ton of noise that must be used', 2, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
 ('Reverse Troll', 'The level gives the player reason to believe that something required or useful is actually a trap', 3, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
 ('Bait', 'A power-up, 1up, or similar is used to trick the player into a softlock or death', 7, 'Intentional Bad Design', 'Default', 1, 0, 'x1372'),
 ('Hidden Pipe', 'A pipe that Mario can enter, intentionally obscured by other pipes/burners/etc.', 3, 'Intentional Bad Design', 'Default', 1, 0, 'x1372');
@@ -76,7 +77,7 @@ INSERT INTO Bingo Values
 ('Forced Waiting', 'The player is forced to wait for something before being able to continue, without significant threat (min 5 seconds)', 4, 'Unintentional Bad Design', 'Default', 1, 0, 'x1372'),
 ('Airship Bottom/Top Row', 'The player has their view obstructed by the rising and falling camera on an airship stage', 2, 'Unintentional Bad Design', 'Default', 1, 0, 'x1372'),
 ('Broken Auto-Level', 'A section of the level is automatic, but either fails or suddenly requires player input partway through', 2, 'Unintentional Bad Design', 'Default', 1, 0, 'x1372'),
-('And Now for Something Completely Different', 'A levle that stuck with a single theme suddenly drastically changes that theme', 3, 'Unintentional Bad Design', 'Default', 1, 0, 'x1372');
+('And Now for Something Completely Different', 'A level that stuck with a single theme suddenly drastically changes that theme', 3, 'Unintentional Bad Design', 'Default', 1, 0, 'x1372');
 
 INSERT INTO BINGO VALUES
 ('Actually Good Level', 'Despite the difficulty, the level was well made and enjoyable', 5, 'Not Necessarily Bad', 'Default', 1, 0, 'x1372'),
@@ -91,10 +92,11 @@ INSERT INTO BINGO VALUES
 ('Speedrun Level', 'The stage focuses on going fast, outrunning a timer or other obstacles', 5, 'Not Necessarily Bad', 'Default', 1, 0, 'x1372'),
 ('Red Coin Hunt', 'The stage contains multiple red coins, with the primary goal to collect them and go through the key door', 6, 'Not Necessarily Bad', 'Default', 1, 0, 'x1372'),
 ('Words in Coins/Blocks', 'The player receives a message (in any language) spelled out in coins or blocks', 5, 'Not Necessarily Bad', 'Default', 1, 0, 'x1372'),
-('Three Bro Lives', 'The level has multiple easy to reach 1ups at the beginning or end (flagpole killing enemies counts)', 4, 'Not Necessarily Bad', 'Default', 1, 0, 'x1372'),
+('Three Bro Lives', 'The level has 3+ easy to reach 1ups, or the player gains 3 lives by touching the end of the level', 4, 'Not Necessarily Bad', 'Default', 1, 0, 'x1372'),
 ('Precision Flight', 'The level makes extensive use of the racoon tail, cape, or propeller hat', 2, 'Not Necessarily Bad', 'Default', 1, 0, 'x1372'),
 ('Glitch Level', 'The level focuses primarily on glitches or obscure techniques for the player to proceed', 2, 'Not Necessarily Bad', 'Default', 1, 0, 'x1372'),
-('I''ll  Guide You', 'The player has to build/create/modify a path to bring an enemy or power-up a long distance before using it (carrying or using does not count)', 5, 'Not Necessarily Bad', 'Default', 1, 0, 'x1372');
+('Escort Mission', 'The player has to build/create/modify a path to maneuver an enemy or power-up some distance before using it (carrying does not count)', 5, 'Not Necessarily Bad', 'Default', 1, 0, 'x1372'),
+('After The Fact Auto', 'The creator made a small, interesting automatic section based on Mario''s movement upon level completion', 4, 'Not Necessarily Bad', 'Default', 1, 0, 'x1372');
 
 INSERT INTO Bingo VALUES 
 ('True Kaizo Level', 'A skill based, incredibly difficult level, genereally with "item abuse"', 3, 'Difficulty', 'Default', 1, 0, 'x1372'),
@@ -107,7 +109,7 @@ INSERT INTO Bingo VALUES
 ('Already Falling', 'The player stairs the level in the air, the standard starting point blocked off', 4, 'Stage Start', 'Default', 1, 0, 'x1372'),
 ('Buried Alive', 'The player starts the level in the ground, with blocks covering every square around the starting point', 3, 'Stage Start', 'Default', 1, 0, 'x1372'),
 ('Instant Start-of-stage Death', 'The player dies within two seconds if he fails to move at the start of the stage', 7, 'Stage Start', 'Default', 1, 0, 'x1372'),
-('Percentage Title', 'The name of the stage has a number followed by a % sign, indicating the expected clear rate', 3, 'Stage Start', 'Default', 1, 0, 'x1372');
+('Percent or Time Title', 'The name of the stage has a number in it clearly indicating its time limit or expected clear rate', 4, 'Stage Start', 'Default', 1, 0, 'x1372');
 
 INSERT INTO Bingo VALUES
 ('Bounce House', 'Excessive Bumpers/Springs/note blocks force the player to bounce in an uncontrolled manner', 5, 'Spam', 'Default', 1, 0, 'x1372'),
@@ -117,21 +119,21 @@ INSERT INTO Bingo VALUES
 ('Lakitu Spam', 'Multiple Lakitus (3+) at once', 3, 'Spam', 'Default', 1, 0, 'x1372');
 
 INSERT INTO Bingo Values 
-('End in  Sight', 'The player can see the end of th e level long before they can touch it', 4, 'Other', 'Default', 1, 0, 'x1372'),
+('End in  Sight', 'The player can see the end of the level long before they can touch it', 4, 'Other', 'Default', 1, 0, 'x1372'),
 ('"That''s the evilest thing I can imagine"', 'Some unique, horrible, unspeakable EVIL thing that the level creator made that fits no other category', 1, 'Other', 'Default', 1, 0, 'x1372'),
 ('Spin To Win', 'The player is forced to spin jump and bounce on enemies, either 3+ times or across 3+ enemies', 6, 'Other', 'Default', 1, 0, 'x1372'),
 ('Covered Exit', 'The level exit is mostly or completely covered by blocks and obstructed', 4, 'Other', 'Default', 1, 0, 'x1372'),
 ('Water Level', 'At least one submap of the level takes place underwater', 3, 'Other', 'Default', 1, 0, 'x1372'),
 ('There and Back Again', 'The level forces significant backtracking (usually with new items/powerups each time)', 4, 'Other', 'Default', 1, 0, 'x1372'),
-('My Precious', 'Carry an item (spring, pow, p-switch, shell) a long way and use it later in the level', 5, 'Other', 'Default', 1, 0, 'x1372'),
+('My Precious', 'Carry an item (spring, pow, p-switch, shell) a long way through the level', 5, 'Other', 'Default', 1, 0, 'x1372'),
 ('True Ending', 'Powerups are available after most threats are cleared, possibly through an optional key door', 4, 'Other', 'Default', 1, 0, 'x1372'),
 ('Didn''t we just leave this party?', 'Play two levels back to back with a very similar look/feel.', 4, 'Other', 'Default', 1, 0, 'x1372'),
 ('FIRST', 'The player is the first to clear the level, or completes it on their first attempt', 6, 'Other', 'Default', 1, 0, 'x1372'),
 ('Long Skull Ride', 'The player is forced to spend 5+ seconds riding skull platforms', 5, 'Other', 'Default', 1, 0, 'x1372'),
 ('Power-Up Check', 'Far after it was received, the level requires taht the player have a power-up to proceed', 5, 'Other', 'Default', 1, 0, 'x1372'),
-('Maze', 'The stage is a genuine maze, whether 2D or a ghost house with dead ends and loops backwards ', 5, 'Other', 'Default', 1, 0, 'x1372'),
+('Maze', 'The stage is a genuine maze, whether 2D or a ghost house style with dead ends and loops backwards ', 5, 'Other', 'Default', 1, 0, 'x1372'),
 ('Empty Stretch', 'At least one full screen, or transition between pipes/doors has nothing to threaten or reward the player', 4, 'Other', 'Default', 1, 0, 'x1372'),
-('Just Stall', 'The player is trapped in an area nad must simply survive until something changes', 6, 'Other', 'Default', 1, 0, 'x1372'),
+('Just Stall', 'The player is trapped in an area and must simply survive until something changes', 6, 'Other', 'Default', 1, 0, 'x1372'),
 ('Rube Goldberg', 'The level has an inordinately complicated setup that is essentially showing it off', 3, 'Other', 'Default', 1, 0, 'x1372'),
 ('Back to Start', 'The player traverses a pipe or door that drops them back at the start of the level', 4, 'Other', 'Default', 1, 0, 'x1372'),
 ('Frozen Fun', 'The majority of the ground is composed of ice blocks', 3, 'Other', 'Default', 1, 0, 'x1372'),

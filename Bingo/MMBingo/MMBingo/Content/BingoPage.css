@@ -26,9 +26,7 @@ h1 {
     height:770px;
     margin-left: auto;
     margin-right: auto;
-    border: 3px solid #FF0000;
-    /*border-color: #0000ff;
-    border-width: 3px*/;
+    border: 3px solid #000000;
     padding: 0px;
     margin: 0px;
     display: inline-block;
@@ -38,7 +36,6 @@ h1 {
 .bingo_square {
     display:inline-block;
     border:solid;
-    /*border-color:#000000;*/
     border-width:2px;
     width: 150px;
     height: 150px;
@@ -59,17 +56,13 @@ h1 {
 
 }
 
-.row_1 {
-    background-color:#A0A0FF;
-    border: 2px solid green !important;
-}
-
 .active {
     background-color: #B0FFB0;
 }
 
 .hovered {
-    background-color:#FF0000;
+    border: 2px solid #FF0000;
+
 }
 
 .winner {
@@ -78,32 +71,29 @@ h1 {
 
 #ExplanationText {
     display:none;
-    border:1px solid #FF0000;
-    width:150px;
-    font-size: 18px;
-}
+    border:1px solid #000000;
 
-.row_@i {
-    background-color: deeppink;
+    font-size: 20px;
 }
 
 
 .bingo_list {
-    border: 1px solid #FF00FF;
+    /*border: 1px solid #000000;*/
+    border-collapse: collapse;
 }
 
-.bingo_list * {
+.bingo_list td {
     font-size: 18px;
-    border: 1px solid #00FFFF;
+    border: 1px solid #000000;
 }
 
+.list_div {
+    /*width: 794px;*/
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #000000;
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
 
-/*
-    THINGS TO ADD
-
-    make jquery pop up a explanation rather than turn red on hover
-    have boxes turn gold if 5 in a row is completed
-    change it to always pick 24 that are not rank 11 and one that is (currently unfinished pipes is the only 11)
-    have it pick one that is rank 11 and maneuver it to the center of the board
-
-*/
+}

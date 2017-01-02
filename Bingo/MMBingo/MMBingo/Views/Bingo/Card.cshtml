@@ -3,6 +3,7 @@
     Layout = null;
     int i = 0;
     int j = 1;
+    List<string> descriptions = new List<string>();
 }
 
 <!DOCTYPE html>
@@ -15,6 +16,11 @@
     <script src="~/scripts/jquery.validate.min.js"></script>
     <script src="~/scripts/jquery.validate.unobtrusive.min.js"></script>
     <script src="~/scripts/BingoActive.js"></script>
+
+    <script type="txt/javascript">
+        var userBingoDetails = @Html.Raw(Json.Encode(Model));
+        var userJsonBingo = '@Html.Raw(Json.Encode(Model))';
+    </script>
     <title>Card</title>
 </head>
 <body>
@@ -49,11 +55,13 @@
                 {
                     n = 2;
                 }
-                /* dia_0 and dia_3 classes are meaningless, just a way to properly add dia_1 or dia_2 classes
+                /* dia_0 class is meaningless, just a way to properly add dia_1 or dia_2 classes
                  if something has the dia_1 class its on the first diagonal, dia_2 for second diagonal*/
 
+                descriptions.Add(square.Description);
 
-                <div class="col_@i, row_@j, space_@k, dia_@m, dia_@n, bingo_square"><p>@square.Name</p></div>
+
+                <div class="col_@i row_@j space_@k dia_@m dia_@n bingo_square" id="@square.Description"><p>@square.Name</p></div>
             }
         </div>
 
