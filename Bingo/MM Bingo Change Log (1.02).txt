@@ -1,0 +1,61 @@
+Change Log 1.02
+
+Attempted to be more consistent with capitalization of enemy names.
+
+Added "NSMB Tech Stage" - wall jumps, triple jumps, twirls, and/or stomps
+Added "Key Chain" - 2+ keys in a single level
+Added "Don't Touch That Item" - Player must prevent p-switch or POW triggers
+Added "P-Switch/Star Run" - The player must race through a section, outrunning p-timer or star timer (name by theVileOne)
+Added "Mario and the Beanstalk" - the player must touch 3 vines (or one moving vine) without touching the ground (idea by TheVileOne)
+
+Changed "Precision Flight" to "I Believe I can Fly", updated description - just get any flight powerup
+Changed "Offscreen Thwomp" to "Death From Above", updated description
+Changed "Obscured Vision Airship" to "Obscured Vision", updated description
+
+Updated Description for "True ending", now includes Yoshi/Boot
+Updated Description for "Grand Theft Lakitu, now just requires the player get the cloud.
+Updated Description for "Aerial Item Jump", now includes shell jumps
+Updated Description for "Shell Excavation", dropped block destruction requirement from 5 to 3
+Updated Description for "Overheating", dropped castle requirement
+Updated Description for "Bullet Hell", now requires 4 projectiles and 2 directions
+Updated Description for "Reverse Troll", now includes an example
+Updated Description for "Quick Death", reduced time from 2 seconds to 1 (uses timer last digit to confirm)
+Updated Description for "Airborn Bowser Jr.", removed falling into a pit requirement if he has wings
+Updated Description for "RNG Fest", now has more examples.
+Updated Description for "Lakitu Spam", slightly cleaner wording.
+Updated Description for "Back to Start", slightly more generalized
+Updated Descritpion for "Obviously Unintended Path", slightly cleaner wording.
+
+Renamed "End in Sight" to "Exit Tease"
+Remamed "Custom Level Completion Animation" to Custom Victory Animation"
+
+Removed "Shell Jump" bingo square (folded into aerial item jump)
+Removed "'That's the Evilest Thing I can imagine'" bingo square(too subjective)
+Removed "Target Acquired" bingo square (too similar to bullet hell)
+Removed "Glitch/Tech level" bingo square (too rare, hopefully NSMB tech stage is better)
+Removed "Sudden Drastic Theme Change" bingo square (too rare, subjective)
+Removed "Obstructed Start" bingo square (too rare, usually overlaps Quick Death)
+
+
+WATCH LIST (categories that may be removed or modified)
+
+Reverse Troll (uncommon, potentially subjective)
+Percent or Time Title (never was happy with this one, kinda overlaps >100 seconds)
+Magikoopa Excavation (uncommon, possibly fold into Bowser/Magikoopa Excavation?)
+Fire Clown Car Excavation (uncommon, possibly fold into Bob-omb/Fire Clown Car Excavation?)
+YATTANAI and Actually Good Level (player based)
+Hidden/Stacked Pipes (uncommon)
+Back to Start (uncommon, possible overlap with "Maze")
+Possibly combine Dev Route & Dev Power-up (dev route kinda rare, similar in theme)
+Possibly combine Dev Route & Obviously Unintended Path (same result, big skip)
+Possibly combine Pixel Art wtih Words in Coins/Blocks (similar in theme)
+Possibly combine Fire Clown Car Excavation and Grand Theft Clown Car into Required Clown Car (kinda rare, similar in theme)
+
+
+POSSIBLE FUTURE SQUARES
+
+Can't Stop Won't Stop - Aside from the starting point and end goal, the level has no solid ground that mario can stand on. (not common)
+Only avaialable in Mario Maker - The player takes advantage of a shellmet, spike helmet, or non-standard boot. (kinda iffy definition)
+The Floor is Moving - The level makes frequent use of conveyor belts (kinda common but eh?)
+Forced Crouch Jump - The player is forced to crouch jump into a small area to proceed (not sold on this being common at all)
+Empty Shell Error - The player wears a helmet that needed to be thrown, or throws one that needed to be worn (player based)

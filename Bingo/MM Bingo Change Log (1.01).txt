@@ -1,0 +1,98 @@
+Change Log 1.01
+
+Added "Free Space" bingo square, always in the center.
+Added "Key in an Enemy" bingo square, idea from TheVileOne
+Added "Forced Clown Car Theft" bingo square
+Added "Bring it with you" bingo square
+Added "Obstructed Start" bingo square
+Added "Extended Ride" bingo square
+Added "Bouncing over Void/Lava" bingo square
+
+Moved "Unfinished Pipes" from center space rarity to standard
+Moved "Spike Spam" to the spam category, removed saws from its description
+Moved "YATTANAI" to the "other" category, changed description
+
+Changed "Lanky Mario" tile to "Lanky/Huge Mario", updated description.  New name by TheVileOne
+Changed "Good Checkpoint" bingo square to "checkpoint", updated description.
+Changed "covered exit" to "mostly covered exit"
+Changed "Hidden Pipe" to "Hidden/Stacked Pipe", updated description.
+Changed "Spinning Bob-omb Bouncing" to "Bob-omb Bouncing", included Yoshi in description
+Changed "And now for something completely different" to "Sudden Drastic Theme Change", updated description
+Changed "Fake Dev Route" to "Failed Cheese", updated description (now includes fake dev routes and apparent but unsuccessful shortcuts)
+Changed "True Kaizo Level" to "Kaizo Level", changed the description
+Changed "Flying Circus" to "Aerial Item Jump", updated description New Name by Beesafree
+Changed "Assisted Vine Climb" to "Enemy Question Block Trigger", updated description (includes note blocks)
+Changed "Eneemy in a ? Block" to "Enemy in a Question Block", updated description (includes note blocks)
+Changed "Question Block Spam" to "Question Block Hunt", updated description (includes note blocks) new name by Beesafree
+
+Updated Description for "Overheating", now says "excessive amounts"
+Updated Description for "Annoying Sounds", took out references to costumes
+Updated Description for "RNG Fest", added an example
+Updated Description for "Forced Yoshi Murder", now requires the yoshi die
+Updated Description for "Power-up Check", including fixing spelling mistake
+Updated Description for "Pick a path" to include mention of doors and pipes
+Updated Description for "Red Coin Hunt", now much simpler
+Updated Description for "Enemy Spam", now says "excessive"
+Updated Description for "Softlock", no longer requires the player get stuck.
+Updated Description for "True ending", now (hopefully) makes sense.
+Updated Description for "Kaizo Block", more straightforward.
+Updated Description for "Bob-omb Excavation", specifying at least 2 required.
+Updated Description for "Autoscroll" to be simpler
+Updated Description for "Water Level" to be simpler
+Updated Description for "End in Sight", added specific amount of time (minimum 20 seconds)
+
+Renamed "Zero Flexibility" to "Pixel Jump", New Name by TheVileOne
+Renamed "Just Stall" to "Survival Room", new name by Foxen45
+Renamed "After-the-fact Auto" to "Custom Level Completion Animation", new name by subido
+Renamed "Glitch Level" to "Glitch/Tech Level"
+Renamed "Flying Bowser Jr." to "Airborn Bowser Jr."
+Renamed "Instant Start-of-stage Death" to "Quick Death"
+Renamed "Lakitu Cheese" to "Grand Theft Lakitu", new name by Beesafree
+Renamed "Frozen Fun" to "Slippery Floors, new name by Beesafree
+Renamed "Airship Bottom/Top Row" to "Obscured Vision Airship", new name by Beesafree
+Renamed "Obviously unintended path" to "Obviously Unintended Path"
+
+Removed "Bad Checkpoint" bingo square (too rare)
+Removed "Speedrun" bingo square (overlapped <100 seconds, still considering other ways to combine them)
+Removed "Escort Mission" bingo square (replaced by "bring it with you")
+Removed "My Precious" bingo square (replaced by "bring it with you")
+Removed "Power-up Refill Bowser Fight" bingo square (replaced by "Key in an Enemy" and "Forced Clown Car Theft")
+Removed "I wanna be the Panga" bingo square (overlapped with "Kaizo Level")
+Removed "Chomps, Hammers, and Bloopers (Oh My!)" bingo square (overlapped with RNG and enemy spam)
+Removed "Unwelcome Assistance" bingo square(too rare)
+Removed "already falling" bingo square (replaced by "obstructed start")
+Removed "buried alive" bingo square (replaced by "obstructed start")
+Removed "broken auto level" bingo square (too rare)
+Removed "Enemy Ride" bingo square (replaced by "extended ride")
+Removed "Long Skull Ride" bingo square (replaced by "extended ride")
+Removed "Get in Line" bingo square (replaced by "extended ride")
+Removed "Didn't we just leave this party?" bingo square (rare and no solid definition)
+Removed "Rube Goldberg" bingo square (too rare)
+Removed "Clown Car Spam" bingo square (too rare)
+Removed "Interesting Idea, terrible execution" bingo square (too subjective)
+Removed "Bait" bingo square (overlapped troll power-up)
+
+
+WATCH LIST (categores that may be better off removed or modified)
+Target Acquired (similar to Bullet Hell)
+Grand Theft Lakitu (uncommon, fits under obviously unintended path)
+Reverse Troll (uncommon, potentially subjective)
+Percent or Time Title (never was happy with this one)
+Obscured Vision Airship (uncommon, possibly change into "offscreen hazard" or "offscreen non-thwomp hazard")
+Magikoopa Excavation (uncommon, possibly fold into Bowser/Magikoopa Excavation?)
+"That's the Evilest Thing I can imagine" (uncommon, subjective)
+Precision Flight (uncommon)
+Glitch/Tech level (uncommon, potentially subjective)
+Sudden Drastic Theme Change (subjective)
+Shell Jump (possibly fold into aerial item jump)
+YATTANAI and Actually Good Level (player based)
+
+POSSIBLE FUTURE SQUARES
+Key Ring - The player collects 4+ Keys in a single level
+Can't Stop Won't Stop - Aside from the starting point and end goal, the level has no solid ground that mario can stand on.
+Something involving mass use of conveyor belts
+Surprise Comeback - The player beats the level after losing 40+ lives to it, or finishes the final level with fewer than 10 lives.
+Death From Above - an enemy falls on or toward the player from above the screen's camera (replaces off-screen thwomp)
+Don't Touch That Item - The player must prevent a P-switch or POW block from being activated
+
+Special Thanks to TheVileOne and Beesafree for extended assistance with this update!

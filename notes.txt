@@ -1,0 +1,4 @@
+Now using bingo SQL script 2.  Script 1 was the "first" and is saved for posterity.
+
+Attempting to make a log of changes to teh SQL script (since that's what matters most to people actually playing bingo)
+
